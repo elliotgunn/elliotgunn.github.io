@@ -8,10 +8,11 @@ Iâ€™m a student at Lambda School learning data science and machine learning. Iâ€
 
 I have a background in economics, econometrics, and research methodologies. Some of the quantitaive projects I was involved have been published: The Lancet ([Global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext)); British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231)); Global Challenge ([Overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019)). 
 
-Born and raised in Singapoe, I'm currently based in Toronto, Canada. 
+Born and raised in Singapore, I'm currently based in Toronto, Canada. 
 
 # Projects 
 
+I'll be posting a curated selection of completed projects. 
 
 # Blog 
 
