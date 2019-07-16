@@ -2,122 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
 
-[Link to another page](./another-page.html).
+I’m a student at Lambda School learning data science and machine learning. I’m most passionate about analytical work that is socially impactful and encourages interdisciplinary ways of thinking and working. 
 
-There should be whitespace between paragraphs.
+I have a background in economics, econometrics, and research methodologies. Some of the quantitaive projects I was involved have been published: The Lancet [Global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext); British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231); Global Challenge [Overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019). 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Born and raised in Singapoe, I'm currently based in Toronto, Canada. 
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Projects 
 
 
-### Definition lists can be used with HTML syntax.
+# Blog 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+You can find the occasional blog post [here](./another-page.html).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# Get in touch
 
-```
-The final element.
-```
+I'm always interested to hear feedback, questions or potential collaborations on data science projects. You can contact me at elliotjgunn at gmail.com. 
+
