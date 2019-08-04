@@ -16,7 +16,7 @@ This section is currently a WIP. I'll be posting a curated selection of complete
 
 # Blog 
 
-You can find the occasional blog post [here](./another-page.html). My first post will probably be a long post about why I dropped out of a traditional master's program for a bootcamp-style education. Meanwhile, you can read about how my first week at Lambda went [here](https://medium.com/@elliot.j.gunn/first-week-at-lambda-school-data-science-447b8bb2c16).  
+You can find the occasional blog post [here](./another-page.html). My first post will probably be a long post about why I dropped out of a traditional master's program for a bootcamp-style education. Meanwhile, you can read about how my first week at Lambda went [here](https://medium.com/@elliot.j.gunn/first-week-at-lambda-school-data-science-447b8bb2c16), and my first data science project was picked up by Towards Data Science [here](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd).
 
 # Get in touch
 
