@@ -1,6 +1,6 @@
 _Notes on Breiman's "Statistical Modeling" paper_
 
-See: Breiman, Leo. Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author). Statist. Sci. 16 (2001), no. 3, 199--231. doi:10.1214/ss/1009213726. [https://projecteuclid.org/euclid.ss/1009213726](https://projecteuclid.org/euclid.ss/1009213726)
+See: Breiman, Leo. Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author). Statist. Sci. 16 (2001), no. 3, 199--231. doi:10.1214/ss/1009213726. [Project Euclid link](https://projecteuclid.org/euclid.ss/1009213726)
 
 ___
 
