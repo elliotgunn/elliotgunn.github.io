@@ -1,12 +1,12 @@
 _Notes on Breiman's "Statistical Modeling" paper_
 
-See: Breiman, Leo. Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author). Statist. Sci. 16 (2001), no. 3, 199--231. doi:10.1214/ss/1009213726. https://projecteuclid.org/euclid.ss/1009213726
+See: Breiman, Leo. Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author). Statist. Sci. 16 (2001), no. 3, 199--231. doi:10.1214/ss/1009213726. [https://projecteuclid.org/euclid.ss/1009213726](https://projecteuclid.org/euclid.ss/1009213726)
 
 ___
 
-It has been nearly two decades since Breiman's article has been published, so it's an interesting POV on machine learning before it entered the mainstream (and hype cycle).
+It has been nearly two decades since Breiman's article has been published, so it's an informative read on machine learning before it entered the mainstream (and hype cycle).
 
-Breiman argues that data modeling is inferior because one can plug in different models (e.g. logistic, linear, Cox etc) and if they are equally "good" (based on standard goodness-of-fit tests, R2), it's nearly impossible to say which model, or underlying mechanism, is most accurate. Just as problematic as using the 5% significance level as a hard cutoff point has been the use of a narrow range of models for social science publication. Cue the replication crisis. 
+Breiman argues that data modeling is inferior to algorithmic modeling when tackling real world, complex data. One can plug in different models (e.g. logistic, linear, Cox etc) and if they are equally "good" (based on standard goodness-of-fit tests, R2), it's nearly impossible to say which model, or underlying mechanism, most accurately represents the data. Just as problematic as using the 5% significance level as a hard cutoff point has been the use of a narrow range of models for social science publication. Cue the replication crisis. 
 
 
 _Data Modeling Culture (p. 199)_
