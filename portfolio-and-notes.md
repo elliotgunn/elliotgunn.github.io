@@ -10,5 +10,5 @@ Using a large dataset from MoMA, I analyzed trends in art curation and creation 
 
 ## Notes
 
-[On Breiman's 2001 paper (data vs algorithmic modelling)](./_notes/breiman-statistical-modelling.html)
+[On Breiman's 2001 paper (data vs algorithmic modelling)](./_notes/breiman-statistical-modelling.md)
 
