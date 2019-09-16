@@ -6,7 +6,11 @@ layout: default
 
 I am a data scientist with a particular interest in research design, causality, and statistical programming. I'm an LSE drop-out, [Lambda School](https://lambdaschool.com/) drop-in. I’m most passionate about analytical work that is socially impactful and encourages interdisciplinary ways of thinking and working. My specialities include machine learning, analytics, econometrics (causal analysis), Python, SQL, Stata, LaTeX and R.
 
-I have a background in economics, econometrics, and research methodologies. Some of the quantitative projects I was involved have been published: The Lancet ([global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext)); British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231)); Global Challenges ([overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019)). 
+I have a background in economics, econometrics, and research methodologies. I previously worked in research where I managed datasets, designed and published quantitative studies in global health. Some of the projects I was involved have been published: The Lancet ([global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext)); British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231)); Global Challenges ([overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019)). 
+
+I have also worked in foreign affairs and banking industries, where I developed strong problem-solving and and communication skills working directly with clients. I am interested in combining these skills with data science technologies to better understand and solve business problems.
+
+When not programming, I read widely and enjoy keeping up on the latest research in statistics and data science. If you’d like to know more, feel free to get in touch! 
 
 Born and raised in Singapore, I'm currently based in Toronto, Canada. I've lived in Ottawa and London, UK for a bit too. 
 
