@@ -29,5 +29,5 @@ You can find the occasional blog post [here](./portfolio-and-notes.html). My fir
 
 # Get in touch
 
-I'm always interested to hear feedback, questions or potential collaborations on data science projects. You can contact me at elliotjgunn at gmail.com or on [LinkedIn](www.linkedin.com/in/elliotgunn).
+I'm always interested to hear feedback, questions or potential collaborations on data science projects. You can contact me at elliotjgunn at gmail.com or on [LinkedIn](https://www.linkedin.com/in/elliotgunn).
 
