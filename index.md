@@ -16,7 +16,6 @@ Born and raised in Singapore, I'm currently based in Toronto, Canada. I've lived
 
 # Projects 
 
-This section is currently a WIP. I'll be posting a curated selection of completed projects. 
 
 # Blog/Notes
 
