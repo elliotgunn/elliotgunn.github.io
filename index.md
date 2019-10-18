@@ -1,9 +1,10 @@
 ---
-layout: post
+
 ---
 
 
 ![me](./assets/img/elliot_landingpage.jpg)
 
 
-[Link to another page](./about.html).
+
+[Click here to read more about me and check out my portfolio](./about.html).
