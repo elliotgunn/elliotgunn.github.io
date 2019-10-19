@@ -3,8 +3,8 @@
 ---
 
 
-![me](./assets/img/elliot_landingpage.jpg)
+![me](./assets/img/elliot_01.jpg)
+data scientist detected, using [YOLO](https://pjreddie.com/darknet/yolo/) which uses a single neural network to predict objects. 
 
 
-
-[Click here to read more about me and check out my portfolio](./about.html).
+click [here](./about.html) for my portfolio and to read more about me!
