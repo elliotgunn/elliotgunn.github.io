@@ -15,3 +15,6 @@ I assembled open data on subway delay from the City of Toronto and created a Plo
 ## Notes
 
 [1] [On Breiman's 2001 paper (data vs algorithmic modelling)](./on-breiman-statistical-modeling.md)
+
+[2] [On a data science workflow in Amazon Web Services](./on-aws-workflow.md)
+
