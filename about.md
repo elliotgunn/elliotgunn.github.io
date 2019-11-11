@@ -6,7 +6,7 @@ layout: default
 
 I am a data scientist with a particular interest in research design, causality, and statistical programming. I'm an LSE drop-out, [Lambda School](https://lambdaschool.com/) drop-in. I’m most passionate about analytical work that is socially impactful and encourages interdisciplinary ways of thinking and working. My specialities include machine learning, analytics, econometrics (causal analysis), Python, SQL, Stata, LaTeX and R.
 
-I have a background in economics, econometrics, and research methodologies. I previously worked in research where I managed datasets, designed and published quantitative studies in global health. Some of the projects I was involved have been published: The Lancet ([global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext)); British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231)); Global Challenges ([overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019)). 
+I have a background in economics, econometrics, and research methodologies. I previously worked in research where I wrangled datasets, designed and published quantitative studies in global health. Some of the projects I was involved have been published: The Lancet ([global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext)); British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231)); Global Challenges ([overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019)); Canadian Journal of Public Health ([global health research funding in Canada)[https://link.springer.com/article/10.17269/s41997-019-00247-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20191107); Canadian Science Policy Centre ([op-ed on AMR](https://sciencepolicy.ca/news/combating-antimicrobial-resistance-role-international-law)). I co-presented the findings of the CJPH article to CIHR; the analysis was one of the most important inputs influencing CIHR's new framework for action on global health research.
 
 I have also worked in foreign affairs and banking industries, where I developed strong problem-solving and and communication skills working directly with clients. I am interested in combining these skills with data science technologies to better understand and solve business problems.
 
@@ -26,6 +26,9 @@ I assembled open data on subway delay from the City of Toronto and created a Plo
 # Blog/Notes
 
 You can find the occasional blog post [here](./portfolio-and-notes.html). My first post will probably be a long post about why I dropped out of a traditional master's program for a bootcamp-style education. Meanwhile, you can read about how my first week at Lambda went [here](https://medium.com/@elliot.j.gunn/first-week-at-lambda-school-data-science-447b8bb2c16), and my first data science project was picked up by Towards Data Science [here](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd).
+
+Other writings:
+I have also contributed for the St. Gallen Symposium's magazine [in 2017](https://issuu.com/st.gallensymposium/docs/st._gallen_symposium_magazine_2017). 
 
 # Get in touch
 
