@@ -23,7 +23,8 @@ Born and raised in Singapore, I'm currently based in Toronto, Canada. I've lived
 
 # Projects 
 
-You can check out all my data science and analytical projects [here](./portfolio-and-notes.html). 
+You can check out all my data science and analytical projects [here](./portfolio-and-notes.html). A preview:
+
 [1] [Where Are All The Women in Modern Art?](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd)
 I wrangled data from an open data set released by New York's Museum of Modern Art, and conducted exploratory data analysis. My analysis was published by Towards Data Science, an industry publication with 10+ million monthly views. Repo: https://github.com/elliotgunn/MoMA-data-analysis
 
