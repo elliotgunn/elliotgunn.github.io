@@ -34,8 +34,8 @@ I assembled open data on subway delay from the City of Toronto and created a Plo
 
 You can find the occasional blog post [here](./portfolio-and-notes.html). My first post will probably be a long post about why I dropped out of a traditional master's program for a bootcamp-style education. Meanwhile, you can read about how my first week at Lambda went [here](https://medium.com/@elliot.j.gunn/first-week-at-lambda-school-data-science-447b8bb2c16), and my first data science project was picked up by Towards Data Science [here](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd).
 
-Other writings:
-I have also contributed for the St. Gallen Symposium's magazine [in 2017](https://issuu.com/st.gallensymposium/docs/st._gallen_symposium_magazine_2017). 
+Other writing:
+I have also contributed entrepreneur profiles and interviews to the St. Gallen Symposium's magazine [in 2017](https://issuu.com/st.gallensymposium/docs/st._gallen_symposium_magazine_2017). 
 
 # Get in touch
 
