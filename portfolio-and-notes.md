@@ -11,7 +11,7 @@ I assembled open data on subway delay from the City of Toronto and created a Plo
 
 [3] Flask API for a full-stack web app that uses machine learning to optimize AirBnB prices in Berlin (to be added soon!)
 
-[4] Plotly Dask chloropleth map (in progress) that forecasts global deforestation trends through 2025 (will be updated)
+[4] Interactive chloropleth map that forecasts global deforestation trends through 2025 (will be updated)
 
 [5] Co-op at [C4ADS](https://c4ads.org/) to identify companies involved in the illicit international weapons trade using a ML model on a large trade dataset (in progress).
 Tech stack: AWS (S3, Sagemaker, RDS, Glue); Python; Dask; PySpark; Pandas; spaCy
