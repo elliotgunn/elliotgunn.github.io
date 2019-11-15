@@ -20,7 +20,11 @@ It's like Dropbox or Google Drive.
 ### EMR (Elastic MapReduce)
 EMR makes it easier to work with Hadoop: it's Hadoop runing on AWS. This basically helps to centrally manage cluster resources. It uses EC2 for computing power and S3 for storage (retrieving data and writing results). It can be used on demand. An EMR cluster comes with one master instance and multiple slave instances (core or task nodes). 
 
+- MapReduce: read a lot of data, extract (map), aggregate/summarize/filter/transform (reduce), write the results
+- check out Word Count for an example 
+
 - Apache Spark is often installed for data wrangling and EDA. It is a good choice for training ML models as it can store large amounts of data in memory and quickly run queries. It's much faster than Hadoop's MapReduce. PySpark is the Python API for Spark (written in Scala).
+- Spark is better than MapReduce: concise language, flex APIs, data persists in memory
 - Advanced reading: [optimizing Spark](https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60)
 
 ### EC2 (Elastic Compute Cloud) Instance
