@@ -6,7 +6,7 @@ layout: default
 
 I am a data scientist with a particular interest in research design, causality, and statistical programming. I'm an LSE drop-out, [Lambda School](https://lambdaschool.com/) drop-in. I’m most passionate about analytical work that is socially impactful and encourages interdisciplinary ways of thinking and working. My specialities include machine learning, analytics, econometrics (causal analysis), Python, SQL, Stata, LaTeX and R.
 
-I have a background in economics, econometrics, and research methodologies. I previously worked in research where I wrangled datasets, designed and published quantitative studies in global health. Some of the projects I was involved have been published: 
+I have a background in economics, econometrics, and research methodologies. I previously worked in research where I wrangled datasets, designed and published quantitative studies in global health. Several projects I was involved in have been published: 
 * The Lancet ([global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext))
 * British Medical Journal ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231))
 * Global Challenges ([overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019))
@@ -35,7 +35,7 @@ I assembled open data on subway delay from the City of Toronto and created a Plo
 
 You can find the occasional blog post [here](./portfolio-and-notes.html). My first post will probably be a long post about why I dropped out of a traditional master's program for a bootcamp-style education. Meanwhile, you can read about how my first week at Lambda went [here](https://medium.com/@elliot.j.gunn/first-week-at-lambda-school-data-science-447b8bb2c16), and my first data science project was picked up by Towards Data Science [here](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd).
 
-Some other notes:
+Some other notes (to be published):
 - PyData NYC 2019 and the 3rd Spatial Data Science Conference
 - AWS
 - Statistical modelling (or, how is DS different from traditional statistics?)
