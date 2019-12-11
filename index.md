@@ -39,6 +39,7 @@ Some other notes (to be published):
 - PyData NYC 2019 and the 3rd Spatial Data Science Conference
 - AWS
 - Statistical modelling (or, how is DS different from traditional statistics?)
+- [Some random little snippets of code written for very niche uses](./code-fun.html)
 
 
 Other writing:
