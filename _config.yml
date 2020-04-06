@@ -1,6 +1,6 @@
 title: Elliot Gunn
 logo: /assets/img/elliot_01.png
-description: data scientist detected using [YOLO](https://pjreddie.com/darknet/yolo/) which uses a single neural network to predict objects
+description: data scientist detected using YOLO, which uses a single neural network to predict objects
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
