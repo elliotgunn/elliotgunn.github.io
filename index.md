@@ -26,7 +26,7 @@ The goal: an end-to-end machine learning model of ~30 million taxi trips to pred
 
 # Blog/Notes
 
-You can find the occasional blog post [here](./portfolio-and-notes.html). My exploratory data analysis of MoMA's data was picked up by **[Towards Data Science](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd)**. I've also written about how I worked with a team to build a machine learning model to identify instances of illicit Russian arms exports (with code snippets) **[here](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)**.
+You can find the occasional blog post **[here](./portfolio-and-notes.html)**. My exploratory data analysis of MoMA's data was picked up by **[Towards Data Science](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd)**. I've also written about how I worked with a team to build a machine learning model to identify instances of illicit Russian arms exports (with code snippets) **[here](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)**.
 
 Some other notes (to be published):
 - The complete guide to working with imbalanced data 
