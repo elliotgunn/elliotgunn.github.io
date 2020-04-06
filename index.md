@@ -10,9 +10,7 @@ I have a background in econometrics and previously worked in research where I wr
 
 I have also worked in foreign affairs and banking industries, where I developed strong problem-solving and and communication skills working directly with clients. I am interested in combining these skills with data science technologies to better understand and solve business problems.
 
-When not programming, I read widely and enjoy keeping up on the latest research in statistics and data science. If you’d like to know more, feel free to get in touch! 
-
-I am enthusiastic about international relations, economic policy, and modern art. 
+When not programming, I read widely and enjoy keeping up on the latest research in statistics and data science. I am enthusiastic about international relations, economic policy, and modern art. If you’d like to know more, feel free to get in touch! 
 
 Born and raised in Singapore, I'm currently based in Toronto, Canada. I've lived in Ottawa and London, UK for a bit too. 
 
