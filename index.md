@@ -18,7 +18,7 @@ Born and raised in Singapore, I'm currently based in Toronto, Canada. I've lived
 
 You can check out all my data science projects [here](./portfolio-and-notes.html). My latest include:
 
-- **[Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)** (data science internship at C4ADS).  
+- **[Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)** (_data science internship at C4ADS_).  
 I documented our research, process, tech stack, and findings in a piece published at [Towards Data Science](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee). We successfully trained a GradientBoostingClassifier in Python to identify 50 illegal arms exporters.
 
 - **[NYC Taxi Trips Model Deployment](https://github.com/elliotgunn/nyc-taxi-trips)** _Ongoing_  
@@ -26,7 +26,7 @@ The goal: an end-to-end machine learning model of ~30 million taxi trips to pred
 
 # Blog/Notes
 
-You can find the occasional blog post [here](./portfolio-and-notes.html). My exploratory data analysis of MoMA's data was picked up by **[Towards Data Science]**(https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd). I've also written about how I worked with a team to build a machine learning model to identify instances of illicit Russian arms exports (with code snippets) **[here]**(https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee).
+You can find the occasional blog post [here](./portfolio-and-notes.html). My exploratory data analysis of MoMA's data was picked up by **[Towards Data Science](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd)**. I've also written about how I worked with a team to build a machine learning model to identify instances of illicit Russian arms exports (with code snippets) **[here](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)**.
 
 Some other notes (to be published):
 - The complete guide to working with imbalanced data 
