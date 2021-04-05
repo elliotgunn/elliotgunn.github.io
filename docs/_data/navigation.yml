@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "About"
-    url: /pages/about.md/
+    url: /docs/pages/about.md/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
