@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Elliot Gunn"
   avatar           : "/assets/images/elliot_2020.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst & Editor at Towards Data Science (Medium). "
-  location         : "Canada/Singapore"
+  bio              : "Data Analyst & Editor at Towards Data Science (Medium)."
+  location         : "Canada"
   email            :
   links:
     - label: "Email"
