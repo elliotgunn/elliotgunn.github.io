@@ -1,85 +1,22 @@
 ---
-permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2019-08-27T15:46:43-04:00
+permalink: /about/
+excerpt: "About me"
+last_modified_at: 2021-04-04T21:36:11-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hi, I'm Elliot
+I am a data scientist with a particular interest in big data, statistical programming, and causal machine learning. I'm an LSE drop-out, [Lambda School](https://lambdaschool.com/) drop-in. I’m most passionate about analytical work that is socially impactful and encourages interdisciplinary ways of thinking and working. My specialities include machine learning, analytics, big data (Spark, Dask), econometrics (causal analysis), scikit-learn, TensorFlow/Keras, Python, SQL, Stata, and LaTeX. I also have experience in end-to-end machine learning deployment.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+I have a background in econometrics and previously worked in research where I wrangled datasets, designed and published quantitative studies in global health. Several projects I was involved in have been published: **_The Lancet_** ([global health funding in Canada](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930322-2/fulltext)); **_British Medical Journal_** ([FCTC & cigarette consumption](https://www.bmj.com/content/365/bmj.l2231)); **_Global Challenges_** ([overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.201800019)); **_Canadian Journal of Public Health_** ([global health research funding in Canada](https://link.springer.com/article/10.17269/s41997-019-00247-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20191107)); **Canadian Science Policy Centre** ([op-ed on AMR](https://sciencepolicy.ca/news/combating-antimicrobial-resistance-role-international-law)). I co-presented the findings of the CJPH article to CIHR; the analysis was one of the most important inputs influencing CIHR's new framework for action on global health research.
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+I have also worked in foreign affairs and banking industries, where I developed strong problem-solving and and communication skills working directly with clients. I am interested in combining these skills with data science technologies to better understand and solve business problems.
 
-## Notable Features
+When not programming, I read widely and enjoy keeping up on the latest research in statistics and data science. I am enthusiastic about international relations, economic policy, and modern art. If you’d like to know more, feel free to get in touch! 
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+Born and raised in Singapore, I'm currently based in Toronto, Canada. I've lived in Ottawa and London, UK for a bit too. 
 
-## Demo Pages
+# Get in touch
+I'm always interested to hear feedback, questions or potential collaborations on data science projects. You can contact me at elliotjgunn at gmail.com or on [LinkedIn](https://www.linkedin.com/in/elliotgunn).
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
