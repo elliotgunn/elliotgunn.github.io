@@ -1,7 +1,6 @@
 ---
-title: "About"
 permalink: /about/
-excerpt: "About me"
+title: "About"
 last_modified_at: 2021-04-04T21:36:11-04:00
 toc: true
 ---
