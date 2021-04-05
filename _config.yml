@@ -133,22 +133,22 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
-        icon: "fab fa-fw fa-linkedin-in"
-         url: "https://www.linkedin.com/in/elliotgunn/"
+#    - label: "LinkedIn"
+#        icon: "fab fa-fw fa-linkedin-in"
+#         url: "https://www.linkedin.com/in/elliotgunn/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+       url: "https://twitter.com/elliot_j_g"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/elliotgunn"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
