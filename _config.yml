@@ -236,7 +236,7 @@ defaults:
   # writing
   - scope:
       path: ""
-      type: writing
+      type: docs
     values:
       layout: single
       read_time: false
