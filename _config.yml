@@ -209,9 +209,9 @@ kramdown:
 
 # Collections
 collections:
-  writing:
+  docs:
     output: true
-    permalink: /:_docs/:path/
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
