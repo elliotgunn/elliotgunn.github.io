@@ -207,6 +207,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  writing:
+    output: true
+    permalink: /:writing/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -227,6 +233,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _writing
+  - scope:
+      path: ""
+      type: writing
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "writing"
 
 # Sass/SCSS
 sass:

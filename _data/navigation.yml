@@ -8,3 +8,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+writing:
+  - title: Writing
+    children:
+      - title: "Resources"
+        url: /writing/resources/
