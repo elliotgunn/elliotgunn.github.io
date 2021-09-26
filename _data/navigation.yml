@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-#  - title: "Writing"
-#    url: /year-archive/
+  - title: "Writing"
+    url: /writing/quick-start-guide
 #  # - title: "Sample Collections"
 #  #   url: /collection-archive/
 #  # - title: "Sitemap"
@@ -12,5 +12,7 @@ main:
 writing:
   - title: Writing
     children:
+      - title: "Quick Start Guide"
+        url: /writing/quick-start-guide
       - title: "Resources"
         url: /writing/resources/
