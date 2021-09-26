@@ -233,7 +233,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # writing
+  # docs
   - scope:
       path: ""
       type: docs
