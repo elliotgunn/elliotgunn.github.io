@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Elliot Gunn"
   avatar           : "/assets/images/elliot_2020.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist. Interested in machine learning, writing, and economics."
+  bio              : "Data Scientist. Interested in machine learning, _docs, and economics."
   location         : "Canada"
   email            :
   links:
@@ -211,7 +211,7 @@ kramdown:
 collections:
   writing:
     output: true
-    permalink: /:writing/:path/
+    permalink: /:_docs/:path/
 
 # Defaults
 defaults:
