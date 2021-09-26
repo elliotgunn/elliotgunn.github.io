@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Writing"
-    url: /writing/quick-start-guide
+    url: /_writing/quick-start-guide
 #  # - title: "Sample Collections"
 #  #   url: /collection-archive/
 #  # - title: "Sitemap"
@@ -13,6 +13,6 @@ writing:
   - title: Writing
     children:
       - title: "Quick Start Guide"
-        url: /writing/quick-start-guide
+        url: /_writing/quick-start-guide
       - title: "Resources"
-        url: /writing/resources/
+        url: /_writing/resources/
