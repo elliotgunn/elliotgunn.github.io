@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Writing"
-    url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#  - title: "Writing"
+#    url: /year-archive/
+#  # - title: "Sample Collections"
+#  #   url: /collection-archive/
+#  # - title: "Sitemap"
+#  #   url: /sitemap/
 
 writing:
   - title: Writing
