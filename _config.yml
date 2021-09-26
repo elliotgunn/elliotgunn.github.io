@@ -233,10 +233,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _writing
+  # _docs
   - scope:
       path: ""
-      type: writing
+      type: docs
     values:
       layout: single
       read_time: false
