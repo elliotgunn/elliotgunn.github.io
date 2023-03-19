@@ -20,12 +20,12 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "About"
-    url: /about/
-  - title: "Sample Posts"
+    url: /docs/pages/about.md/
+  - title: "Blog"
     url: /year-archive/
+  - title: "Technical Writing"
+    url: /docs/pages/technical-writing.md/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
