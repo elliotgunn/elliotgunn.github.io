@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Elliot Gunn"
 title_separator          : "-"
-subtitle                 : "Data Science & Writing" # site tagline that appears below site title in masthead
+subtitle                 : "Economic History, Data Science, and Writing" # site tagline that appears below site title in masthead
 name                     : "Elliot Gunn"
 description              : # "An amazing website."
 url                      : "https://elliotgunn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Elliot Gunn"
   avatar           : "/assets/images/elliot_2020.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist. Interested in machine learning, writing, and economics."
+  bio              : "Interested in machine learning, writing, and economic history."
   location         : "Canada"
   email            :
   links:

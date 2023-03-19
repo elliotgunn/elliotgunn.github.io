@@ -22,8 +22,10 @@ foo:
 main:
   - title: "About"
     url: /docs/pages/about.md/
-  - title: "Sample Posts"
+  - title: "Blog"
     url: /year-archive/
+  - title: "Technical Writing"
+    url: /docs/pages/technical-writing.md/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
