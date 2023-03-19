@@ -7,7 +7,7 @@ toc: true
 
 Hi, I’m Elliot! I'm currently completing my MSc. in Economic History at the [London School of Economics & Political Science](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Economic-History). Some of my professional interests include: data science, technical writing, data engineering, and statistical methods. 
 
-Before I packed up my bags in late 2022 and moved across the Atlantic for a year to learn about the historical miracle that is the [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence#:~:text=The%20Great%20Divergence%20or%20European,most%20powerful%20and%20wealthy%20world), I worked in tech. I was previously a Sales Engineer at [Plotly](https://plotly.com/) and a Senior Editor at [Towards Data Science](https://towardsdatascience.com/). 
+Before I moved across the Atlantic in late 2022 for a year to learn about the historical miracle that is the [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence#:~:text=The%20Great%20Divergence%20or%20European,most%20powerful%20and%20wealthy%20world), I worked in tech. I was previously a Sales Engineer at [Plotly](https://plotly.com/) and a Senior Editor at [Towards Data Science](https://towardsdatascience.com/). 
 
 I really enjoy learning new things, working intensively, and producing cross-disciplinary work; I'm always looking for new projects that feature any of these! I currently serve as the Managing Editor at the [International Journal](https://journals.sagepub.com/home/IJX), a peer-reviewed SAGE journal on foreign policy published by the Canadian International Council (CIC) and the Bill Graham Centre for Contemporary International History (CCIH) at the University of Toronto. 
 
