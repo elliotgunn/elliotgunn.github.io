@@ -11,7 +11,7 @@ Before I packed up my bags in late 2022 and moved across the Atlantic for a year
 
 I really enjoy learning new things, working intensively, and producing cross-disciplinary work; I'm always looking for new projects that feature any of these! I currently serve as the Managing Editor at the [International Journal](https://journals.sagepub.com/home/IJX), a peer-reviewed SAGE journal on foreign policy published by the Canadian International Council (CIC) and the Bill Graham Centre for Contemporary International History (CCIH) at the University of Toronto. 
 
-I also freelance as a technical writer specialising in data science, data engineering, and machine learning. My select portfolio, which includes blog posts, interviews, and longform writing, can be accessed here. To collaborate, get in touch with me at elliotjgunn at gmail.com or on [LinkedIn](https://www.linkedin.com/in/elliotgunn).
+I also freelance as a technical writer specialising in data science, data engineering, and machine learning. My select portfolio, which includes blog posts, interviews, and longform writing, can be accessed [here](https://elliotgunn.github.io/technical-writing). To collaborate, get in touch with me at elliotjgunn at gmail.com or on [LinkedIn](https://www.linkedin.com/in/elliotgunn).
 
 Other things about me:
 * Born and raised in Singapore, I’m currently based in London, U.K., for graduate school. I will be returning home to Canada in 2023. 
