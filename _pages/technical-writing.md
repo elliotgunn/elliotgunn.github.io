@@ -40,7 +40,7 @@ CareerFoundry
 * [What Is Spatial Analysis, and How Does It Work?](https://careerfoundry.com/en/blog/data-analytics/spatial-analysis/)
 * [15 of the Best Free Open Data Sources for 2023](https://careerfoundry.com/en/blog/data-analytics/open-data-sources/)
 * [Data Analytics for Beginners: Jupyter Notebook Tutorial](https://careerfoundry.com/en/blog/data-analytics/jupyter-notebook-tutorial/)
-* What is RStudio? 
+* [What Is RStudio? A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/what-is-rstudio/)
 
 Towards Data Science
 * [The All-time Best Guides to Data Science Writing](https://towardsdatascience.com/the-all-time-best-guides-to-data-science-writing-tues-b6fec391e9d9)
