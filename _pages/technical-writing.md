@@ -19,16 +19,16 @@ Here are samples of technical writing work I've done (for Medium links, right-cl
 
 ## Enterprise tooling ##
 
-Plotly
+Plotly (data science, machine learning)
 * [Effective ML Workflows: Integrating Dash Enterprise within the ML Lifecycle](https://medium.com/plotly/effective-ml-workflows-5af03657a171) ([webinar recording](https://go.plotly.com/ml-workflows?utm_source=Webinar%3A+ML+Workflows+March+29+2022&utm_medium=plotly_resources))
 * [5 Awesome Tools to Power Your Geospatial Dash App: A comprehensive guide to your first geospatial Dash app](https://medium.com/plotly/5-awesome-tools-to-power-your-geospatial-dash-app-c71ae536750d)
 
-## Blog posts ##
-
-Dagster
+Dagster (data engineering & orchestration)
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1), [part 2](https://dagster.io/blog/python-packages-primer-2)
 * [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) 
 * [From Python Projects to Dagster Pipelines](https://dagster.io/blog/data-engineering-in-python)
+
+## Blog posts ##
 
 CareerFoundry
 * [What is SQL? The Complete Guide](https://careerfoundry.com/en/blog/data-analytics/what-is-sql/)
