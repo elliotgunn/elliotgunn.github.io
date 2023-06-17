@@ -27,6 +27,8 @@ Plotly
 
 Dagster
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1), [part 2](https://dagster.io/blog/python-packages-primer-2)
+* [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) 
+* [From Python Projects to Dagster Pipelines](https://dagster.io/blog/data-engineering-in-python)
 
 CareerFoundry
 * [What is SQL? The Complete Guide](https://careerfoundry.com/en/blog/data-analytics/what-is-sql/)
