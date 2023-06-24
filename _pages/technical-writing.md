@@ -24,6 +24,7 @@ Plotly (data science, machine learning)
 * [5 Awesome Tools to Power Your Geospatial Dash App: A comprehensive guide to your first geospatial Dash app](https://medium.com/plotly/5-awesome-tools-to-power-your-geospatial-dash-app-c71ae536750d)
 
 Dagster (data engineering & orchestration)
+I am currently working on an Introduction to Data Engineering with Python: 
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1), [part 2](https://dagster.io/blog/python-packages-primer-2)
 * [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) 
 * [From Python Projects to Dagster Pipelines](https://dagster.io/blog/data-engineering-in-python)
