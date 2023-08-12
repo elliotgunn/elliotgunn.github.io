@@ -30,6 +30,7 @@ I am currently working on a series -- Introduction to Data Engineering with Pyth
 * [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) 
 * [From Python Projects to Dagster Pipelines](https://dagster.io/blog/data-engineering-in-python)
 * [Environment Variables in Python](https://dagster.io/blog/python-environment-variables)
+* [Type Hinting in Python](https://dagster.io/blog/python-type-hinting)
 
 ## Blog posts ##
 
