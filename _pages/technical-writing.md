@@ -31,6 +31,7 @@ I am currently working on a series -- Introduction to Data Engineering with Pyth
 * [From Python Projects to Dagster Pipelines](https://dagster.io/blog/data-engineering-in-python)
 * [Environment Variables in Python](https://dagster.io/blog/python-environment-variables)
 * [Type Hinting in Python](https://dagster.io/blog/python-type-hinting)
+* [Factory Patterns in Python](https://dagster.io/blog/python-factory-patterns)
 
 ## Blog posts ##
 
@@ -48,6 +49,8 @@ CareerFoundry
 * [Data Analytics for Beginners: Jupyter Notebook Tutorial](https://careerfoundry.com/en/blog/data-analytics/jupyter-notebook-tutorial/)
 * [What Is RStudio? A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/what-is-rstudio/)
 * [Big Data Analytics: Why Does it Matter and How Does it Work?](https://careerfoundry.com/en/blog/data-analytics/big-data-analytics/)
+* [What is PostgreSQL and How Do Data Analysts Use It?](https://careerfoundry.com/en/blog/data-analytics/what-is-postgresql/)
+* [11 of the Best ChatGPT Data Analysis Prompts You Should Know](https://careerfoundry.com/en/blog/data-analytics/data-analysis-prompts/)
 
 Towards Data Science
 * [The All-time Best Guides to Data Science Writing](https://towardsdatascience.com/the-all-time-best-guides-to-data-science-writing-tues-b6fec391e9d9)
