@@ -4,7 +4,7 @@ title: "Technical Writing"
 last_modified_at: 2023-03-03 T21:36:11-04:00
 toc: true
 ---
-I have experience in technical writing and working with cross-functional teams to create high-quality blog posts, well-researched longform pieces, and engaging interviews. 
+I have experience in technical writing and working with cross-functional teams to create high-quality blog posts and well-researched longform pieces. I have also conducted engaging technical interviews with data scientists and their teams at organisations such as the Rockefeller Foundation, World Bank, German Ministry of Health, UNICEF, City of London AI Lab, and AI Sweden. 
 
 # Specialisation # 
 My specialities include: data science, data engineering, machine learning, beginner-intermediate programming concepts, analytics, big data, econometrics, research design, enterprise data tooling, and the modern data infrastructure. 
@@ -19,10 +19,6 @@ Here are samples of technical writing work I've done (for Medium links, right-cl
 
 ## Enterprise tooling ##
 
-Plotly (data science, machine learning)
-* [Effective ML Workflows: Integrating Dash Enterprise within the ML Lifecycle](https://medium.com/plotly/effective-ml-workflows-5af03657a171) ([webinar recording](https://go.plotly.com/ml-workflows?utm_source=Webinar%3A+ML+Workflows+March+29+2022&utm_medium=plotly_resources))
-* [5 Awesome Tools to Power Your Geospatial Dash App: A comprehensive guide to your first geospatial Dash app](https://medium.com/plotly/5-awesome-tools-to-power-your-geospatial-dash-app-c71ae536750d)
-
 Dagster (data engineering & orchestration)
 I am currently working on a series -- Introduction to Data Engineering with Python: 
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1)
@@ -32,6 +28,10 @@ I am currently working on a series -- Introduction to Data Engineering with Pyth
 * [Environment Variables in Python](https://dagster.io/blog/python-environment-variables)
 * [Type Hinting in Python](https://dagster.io/blog/python-type-hinting)
 * [Factory Patterns in Python](https://dagster.io/blog/python-factory-patterns)
+
+Plotly (data science, machine learning)
+* [Effective ML Workflows: Integrating Dash Enterprise within the ML Lifecycle](https://medium.com/plotly/effective-ml-workflows-5af03657a171) ([webinar recording](https://go.plotly.com/ml-workflows?utm_source=Webinar%3A+ML+Workflows+March+29+2022&utm_medium=plotly_resources))
+* [5 Awesome Tools to Power Your Geospatial Dash App: A comprehensive guide to your first geospatial Dash app](https://medium.com/plotly/5-awesome-tools-to-power-your-geospatial-dash-app-c71ae536750d)
 
 ## Blog posts ##
 
@@ -65,8 +65,19 @@ Towards Data Science
 
 ## Interviews ## 
 
-* [Adapting Data Science Tools for Social Impact in Philanthropy](https://towardsdatascience.com/adapting-data-science-tools-for-social-impact-in-philanthropy-73a8a382c79c) (Rockefeller Foundation)
-* [Data Science Coding Meets Esports](https://towardsdatascience.com/data-science-coding-meets-esports-9439d3ecf91e) (Kaggle collaboration)
+* [Adapting Data Science Tools for Social Impact in Philanthropy](https://towardsdatascience.com/adapting-data-science-tools-for-social-impact-in-philanthropy-73a8a382c79c): Learning how the Statistics and Machine Learning team at the Rockefeller Foundation uses advanced analytics to map hand-harvested crops to optimise growing decisions, identify areas of economic opportunity with satellite imagery, and create models to predict where lead-containing pipes can be found. 
+
+* [Data Science Experiments in Government](https://towardsdatascience.com/data-science-experiments-in-government-f61c692e2ac3): I spoke with the Director of AI & Data at the health innovation hub, a digitalization task force, to understand how their organisation serves as a "sparring partner" to shape data infrastructure and lawmaking at the German Ministry of Health
+
+* [Leading by Example to Improve Civic Life](https://towardsdatascience.com/leading-by-example-to-improve-civic-life-550d88a16b27): How the City of London’s AI Lab is paving the way for local governments in Canada (and beyond) to adopt machine learning.
+
+* [Data Science Coding Meets Esports](https://towardsdatascience.com/data-science-coding-meets-esports-9439d3ecf91e): In conversation with the creators of [SLICED](https://harsh-walleye-e6e.notion.site/SLICED-Show-c7bd26356e3a42279e2dfbafb0480073), an exciting new live coding competition that’s “like the TV Show Chopped but for data science”
+
+* [AI Strategy is Now a Nation-Defining Capability](https://towardsdatascience.com/ai-strategy-is-now-a-nation-defining-capability-35f64bda1054): How to design a national AI roadmap for the Philippines that balances innovation and responsibility through an AI ecosystem “conscience”
+
 * [To Do Great Data Science, Embrace Domain Knowledge](https://towardsdatascience.com/to-do-great-data-science-embrace-domain-knowledge-167cb83dc050) (Randy Au, Google)
+
 * [To Turbocharge Your Learning, Pick Hard Projects](https://towardsdatascience.com/to-turbocharge-your-learning-pick-hard-projects-c0943d1fe27d) (Eugene Yan, Amazon)
+
 * [Read and Write Obsessively: There are No Real Shortcuts to Producing Great Work](https://towardsdatascience.com/read-and-write-obsessively-there-are-no-real-shortcuts-to-producing-great-work-4ea1f3421eec) (Mark Saroufim, Pytorch/Facebook)
+
