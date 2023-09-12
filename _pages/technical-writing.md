@@ -1,7 +1,7 @@
 ---
 permalink: /technical-writing/
 title: "Technical Writing"
-last_modified_at: 2023-03-03 T21:36:11-04:00
+last_modified_at: 2023-09-10 T21:36:11-04:00
 toc: true
 ---
 I have experience in technical writing and working with cross-functional teams to create high-quality blog posts and well-researched longform pieces. I have also conducted engaging technical interviews with data scientists and their teams at organisations such as the Rockefeller Foundation, World Bank, German Ministry of Health, UNICEF, City of London AI Lab, and AI Sweden. 
