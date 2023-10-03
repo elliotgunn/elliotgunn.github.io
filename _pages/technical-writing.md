@@ -22,12 +22,13 @@ Here are samples of technical writing work I've done (for Medium links, right-cl
 Dagster (data engineering & orchestration)
 I am currently working on a 10-part series -- Introduction to Data Engineering with Python: 
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1)
-* Python Packages: a Primer for Data People [part 2](https://dagster.io/blog/python-packages-primer-2)
-* [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) 
+* Python Packages: a Primer for Data People [part 2](https://dagster.io/blog/python-packages-primer-2) 
+* [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) (#2 on Google search for "structuring python project")
 * [From Python Projects to Dagster Pipelines](https://dagster.io/blog/data-engineering-in-python)
 * [Environment Variables in Python](https://dagster.io/blog/python-environment-variables)
 * [Type Hinting in Python](https://dagster.io/blog/python-type-hinting)
-* [Factory Patterns in Python](https://dagster.io/blog/python-factory-patterns)
+* [Factory Patterns in Python](https://dagster.io/blog/python-factory-patterns) (#4 on Google search "factory pattern python")
+* [Write-Audit-Publish in data pipelines](https://dagster.io/blog/python-write-audit-publish) (#1 on Google search for "write audit publish python")
 
 Plotly (data science, machine learning)
 * [Effective ML Workflows: Integrating Dash Enterprise within the ML Lifecycle](https://medium.com/plotly/effective-ml-workflows-5af03657a171) ([webinar recording](https://go.plotly.com/ml-workflows?utm_source=Webinar%3A+ML+Workflows+March+29+2022&utm_medium=plotly_resources))
