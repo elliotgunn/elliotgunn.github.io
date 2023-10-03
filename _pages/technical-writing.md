@@ -20,7 +20,7 @@ Here are samples of technical writing work I've done (for Medium links, right-cl
 ## Enterprise tooling ##
 
 Dagster (data engineering & orchestration)
-I am currently working on a series -- Introduction to Data Engineering with Python: 
+I am currently working on a 10-part series -- Introduction to Data Engineering with Python: 
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1)
 * Python Packages: a Primer for Data People [part 2](https://dagster.io/blog/python-packages-primer-2)
 * [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) 
@@ -51,6 +51,7 @@ CareerFoundry
 * [Big Data Analytics: Why Does it Matter and How Does it Work?](https://careerfoundry.com/en/blog/data-analytics/big-data-analytics/)
 * [What is PostgreSQL and How Do Data Analysts Use It?](https://careerfoundry.com/en/blog/data-analytics/what-is-postgresql/)
 * [11 of the Best ChatGPT Data Analysis Prompts You Should Know](https://careerfoundry.com/en/blog/data-analytics/data-analysis-prompts/)
+* [How To Become A Data Consultant: A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/data-consultant/)
 
 Towards Data Science
 * [The All-time Best Guides to Data Science Writing](https://towardsdatascience.com/the-all-time-best-guides-to-data-science-writing-tues-b6fec391e9d9)
