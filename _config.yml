@@ -19,7 +19,7 @@ locale                   : "en-US"
 future                   : true
 title                    : "Elliot Gunn"
 title_separator          : "-"
-subtitle                 : "Economic History, Data Science, and Writing" # site tagline that appears below site title in masthead
+subtitle                 : "Data Engineering, Technical Writing, and Economic History" # site tagline that appears below site title in masthead
 name                     : "Elliot Gunn"
 description              : # "An amazing website."
 url                      : "https://elliotgunn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -77,7 +77,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/elliot_2020.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/elliot_gunn_2022_square.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -98,8 +98,8 @@ analytics:
 # Site Author
 author:
   name             : "Elliot Gunn"
-  avatar           : "/assets/images/elliot_2020.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Interested in machine learning, writing, and economic history."
+  avatar           : "/assets/images/elliot_gunn_2022_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Interested in data engineering, writing, LEGO robotics, and economic history."
   location         : "Canada"
   email            :
   links:

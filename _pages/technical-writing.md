@@ -22,9 +22,13 @@ Please get in touch with me at elliotjgunn at gmail.com or on LinkedIn if you wo
 Here are samples of technical writing work I've done (for Medium links, right-click 'view in Incognito' to bypass the paywall.)
 
 ## Enterprise tooling ##
+Here are some examples of recent work I've done:
 
-Dagster (data engineering & orchestration)
-I am currently working on a 10-part series -- Introduction to Data Engineering with Python: 
+### Dagster
+I've created a [10-part Python guide](https://dagster.io/resources/python-guides) which was launched in October 2023 alongside Dagster's stakeholder education programs, including Dagster University. 
+
+![Data engineering python guides screenshot](../assets/images/Python-Guides-for-Data-Engineers-Learn-key-Python-concepts-for-Data-Engineering-cropped.png)
+
 * Python Packages: a Primer for Data People [part 1](https://dagster.io/blog/python-packages-primer-1)
 * Python Packages: a Primer for Data People [part 2](https://dagster.io/blog/python-packages-primer-2) 
 * [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices) (#2 on Google search for "structuring python project")
@@ -34,13 +38,13 @@ I am currently working on a 10-part series -- Introduction to Data Engineering w
 * [Factory Patterns in Python](https://dagster.io/blog/python-factory-patterns) (#4 on Google search "factory pattern python")
 * [Write-Audit-Publish in data pipelines](https://dagster.io/blog/python-write-audit-publish) (#1 on Google search for "write audit publish python")
 
-Plotly (data science, machine learning)
+### Plotly
 * [Effective ML Workflows: Integrating Dash Enterprise within the ML Lifecycle](https://medium.com/plotly/effective-ml-workflows-5af03657a171) ([webinar recording](https://go.plotly.com/ml-workflows?utm_source=Webinar%3A+ML+Workflows+March+29+2022&utm_medium=plotly_resources))
 * [5 Awesome Tools to Power Your Geospatial Dash App: A comprehensive guide to your first geospatial Dash app](https://medium.com/plotly/5-awesome-tools-to-power-your-geospatial-dash-app-c71ae536750d)
 
 ## Blog posts ##
 
-CareerFoundry
+### CareerFoundry
 * [What is SQL? The Complete Guide](https://careerfoundry.com/en/blog/data-analytics/what-is-sql/)
 * [SQL Interview Questions (and How To Answer Them)](https://careerfoundry.com/en/blog/data-analytics/sql-interview-questions/)
 * [What is Power BI?](https://careerfoundry.com/en/blog/data-analytics/what-is-power-bi/#:~:text=What%20is%20CareerFoundry%3F,a%20rewarding%20career%20in%20tech.)
@@ -58,7 +62,7 @@ CareerFoundry
 * [11 of the Best ChatGPT Data Analysis Prompts You Should Know](https://careerfoundry.com/en/blog/data-analytics/data-analysis-prompts/) (#3 on Google search for "ChatGPT Data Analysis Prompts")
 * [How To Become A Data Consultant: A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/data-consultant/) (#12 on Google search for "How To Become A Data Consultant")
 
-Towards Data Science
+### Towards Data Science
 * [The All-time Best Guides to Data Science Writing](https://towardsdatascience.com/the-all-time-best-guides-to-data-science-writing-tues-b6fec391e9d9)
 * [Where Are All The Women in Modern Art?](https://towardsdatascience.com/where-are-all-the-women-in-modern-art-7c5fd08ea1cd)
 * [The Last Mile in Shipping Data Science Projects Well](https://towardsdatascience.com/the-last-mile-in-shipping-data-science-projects-well-c4fb73c35af3)
