@@ -19,7 +19,7 @@ locale                   : "en-US"
 future                   : true
 title                    : "Elliot Gunn"
 title_separator          : "-"
-subtitle                 : "Data Engineering, Technical Writing, and Economic History" # site tagline that appears below site title in masthead
+subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Elliot Gunn"
 description              : # "An amazing website."
 url                      : "https://elliotgunn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
