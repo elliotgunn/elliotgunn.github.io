@@ -61,6 +61,7 @@ I've created a [10-part Python guide](https://dagster.io/resources/python-guides
 * [What is PostgreSQL and How Do Data Analysts Use It?](https://careerfoundry.com/en/blog/data-analytics/what-is-postgresql/)
 * [11 of the Best ChatGPT Data Analysis Prompts You Should Know](https://careerfoundry.com/en/blog/data-analytics/data-analysis-prompts/) (#3 on Google search for "ChatGPT Data Analysis Prompts")
 * [How To Become A Data Consultant: A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/data-consultant/) (#12 on Google search for "How To Become A Data Consultant")
+* [16 of the Best Python Machine Learning Libraries to Try](https://careerfoundry.com/en/blog/data-analytics/python-machine-learning-libraries/)
 
 ### Towards Data Science
 * [The All-time Best Guides to Data Science Writing](https://towardsdatascience.com/the-all-time-best-guides-to-data-science-writing-tues-b6fec391e9d9)
