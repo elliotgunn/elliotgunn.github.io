@@ -27,7 +27,7 @@ Turns out Prague’s metro is incredibly well-designed. They had clearly put a l
 
 (The spaces are intentional, [check out their extremely beautiful website](https://praha.camp/en/).)
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/prague_camp.JPG" alt="">
   <figcaption>
 </figcaption>
@@ -35,11 +35,15 @@ Turns out Prague’s metro is incredibly well-designed. They had clearly put a l
 
 Did you know that Prague has a museum-like interface through which the public (and tourists) can learn about their urban planning initiatives and research? C.A.M.P is part of the The Prague Institute of Planning and Development (IPR Prague) – they’re housed side-by-side. Note their outreach mandate, paired with their cheeky “go to camp!”
 
+<figure style="width: 300px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/prague_camp_description.png" alt="">
+</figure> 
+
 24 hours in Prague meant I had to choose between urban planning and Prague Castle. My friend and I split up for the afternoon. I could have spent days at C.A.M.P. I enjoyed their exhibition on [the future of housing in Prague](https://praha.camp/en/exhibitions/detail/prague-tomorrow-houses-and-apartments)–they share many of the same problems facing major cities worldwide. Great bookstore with lots of niche urban planning books in English and Czech. 
 
 ## (iii) The goulash
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/prague_goulash.JPG" alt="">
   <figcaption>
 </figcaption>
@@ -48,6 +52,12 @@ Did you know that Prague has a museum-like interface through which the public (a
 I still think about this goulash. We wanted something local and hearty (with beer) and both got the Budweiser Goulash for 385 CZK (~23 CAD, described on the menu as “(sirloin of beef goulash), dumplings, potato pancakes, fried eggs, horseradish”). I had no idea what Czech dumplings were before this; we got an array of different, fluffy, bread-like…breads that went great with the gravy). It went down easy with our Budvar 12 Darks (59 CZK ~ 4 CAD). 
 
 When I was searching up dinner options, there were a number in the area that looked good since it was a short walk from the main tourist attractions. I was looking for something on the quieter side, and [Hostinec U Sádlů](https://www.google.com/maps/place/Hostinec+U+S%C3%A1dl%C5%AF/@50.0913943,14.4177963,15z/data=!3m1!4b1!4m6!3m5!1s0x470b94c1cf3245c9:0xfd2256a7d797e895!8m2!3d50.0913948!4d14.4280746!16s%2Fg%2F1w0qzmq2?entry=ttu) delivered. I was intrigued by the Google reviews with “medieval” listed as one of the top keywords. 
+
+<figure style="width: 300px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/prague_goulash_reviews.png" alt="">
+</figure> 
+
+I also enjoyed the kolaches at [The Kolacherie](https://www.kolacherie.cz/). 
 
 ## Other things
 
