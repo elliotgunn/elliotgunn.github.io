@@ -4,8 +4,10 @@ main:
     url: /about/
   - title: "Blog"
     url: /year-archive/
-  - title: "Technical Writing"
+  - title: "Technical writing"
     url: /technical-writing/
+  - title: "Work with me"
+    url: /work-with-me/
 
 writing:
   - title: Writing
