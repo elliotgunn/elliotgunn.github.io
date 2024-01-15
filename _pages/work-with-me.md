@@ -1,7 +1,7 @@
 ---
 permalink: /work-with-me/
 title: "Work with me"
-last_modified_at: 2023-09-10 T21:36:11-04:00
+last_modified_at: 2023-12-01 T21:36:11-04:00
 toc: true
 ---
 
