@@ -38,7 +38,7 @@ You not only get to see them apply new knowledge, but their mental models for ap
 
 There are practitioners who are slowly making knowledge more accessible in their domains: 
 * [Simon Späti on data engineering](https://www.ssp.sh/categories/data-engineering/)
-* [Laszlo Sragner’s Deliberate Machine Learning](https://laszlo.substack.com/about)
+* [Laszlo Sragner’s on doing machine learning](https://laszlo.substack.com/about)
 * [Eugene Yan on machine learning systems](https://eugeneyan.com/)
 * [Chip Huyen on MLOps](https://huyenchip.com/)
 * [Shreya Shankar on ML engineering](https://www.sh-reya.com/blog)
