@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "About me"
+    url: /about-me/
   - title: "Blog"
     url: /year-archive/
   - title: "Technical writing"
