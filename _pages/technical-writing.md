@@ -39,6 +39,10 @@ I've created a [10-part Python guide](https://dagster.io/resources/python-guides
 * [Write-Audit-Publish in data pipelines](https://dagster.io/blog/python-write-audit-publish) (#1 on Google search for "write audit publish python")
 
 ### Plotly
+* From Prototyping Jupyter to Deploying Data Apps with Dash AG Grid: [article](https://medium.com/plotly/from-prototyping-jupyter-to-deploying-data-apps-with-dash-ag-grid-f825789c3647) and [GitHub repository](https://github.com/plotly/dash-ag-grid-sample) featuring two Dash apps and a Jupyter Notebook
+
+![](/assets/images/dash_ag_grid_app_column_filters.gif)
+
 * [Effective ML Workflows: Integrating Dash Enterprise within the ML Lifecycle](https://medium.com/plotly/effective-ml-workflows-5af03657a171) ([webinar recording](https://go.plotly.com/ml-workflows?utm_source=Webinar%3A+ML+Workflows+March+29+2022&utm_medium=plotly_resources))
 * [5 Awesome Tools to Power Your Geospatial Dash App: A comprehensive guide to your first geospatial Dash app](https://medium.com/plotly/5-awesome-tools-to-power-your-geospatial-dash-app-c71ae536750d)
 

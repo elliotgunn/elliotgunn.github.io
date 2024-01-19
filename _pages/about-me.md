@@ -1,6 +1,6 @@
 ---
 permalink: /about-me/
-title: "About Me"
+title: "About me"
 last_modified_at: 2023-09-10 T21:36:11-04:00
 toc: true
 ---
@@ -13,7 +13,7 @@ I pivoted into tech through a data science bootcamp in 2019, started my career o
 
 While I was busy learning about how to construct long-run wage series and the factors behind the historical miracle that is the [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence#:~:text=The%20Great%20Divergence%20or%20European,most%20powerful%20and%20wealthy%20world), I became interested in learning more about analytics engineering (hello dbt fans!) and data infrastructure (pipelines are fascinating). I started taking on freelance technical writing work in data engineering. One client led to another, and I soon found myself working across domains and content types in data. 
 
-**I learnt that developer marketing is hard to get right because good technical writing is a craft**. Also, I deeply enjoy learning new technical things and strategizing about how to produce meaningful content. It was no surprise that shortly after I finished my MSc, I began working full-time as a technical writer. 
+**I learnt that developer marketing is hard to get right because good technical writing is a craft**. Also, I deeply enjoy learning new technical things and strategizing how to produce meaningful content. It was no surprise that shortly after I finished my MSc, I began working full-time as a technical writer. 
 
 If you would like to collaborate on an idea, or just want someone to brainstorm ideas with, [let's work together](https://elliotgunn.github.io/work-with-me/) or check out [my portfolio](https://elliotgunn.github.io/technical-writing/) to see what I've published. 
 
