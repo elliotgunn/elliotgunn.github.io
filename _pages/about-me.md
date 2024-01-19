@@ -18,7 +18,7 @@ While I was busy learning about how to construct long-run wage series and the fa
 If you would like to collaborate on an idea, or just want someone to brainstorm ideas with, [let's work together](https://elliotgunn.github.io/work-with-me/) or check out [my portfolio](https://elliotgunn.github.io/technical-writing/) to see what I've published. 
 
 ## Mentorship
-I owe my career to many fortunate and generous encounteers with peers and senior practitioners in data, and feel strongly about paying it forward. Also, I really enjoy public speaking. I've given talks to students and anyone transitioning into tech on how technical writing can make networking easier and more fun (e.g. Lambda School, Brave, PyData Impact Fellowship). I'm always [looking for opportunities](https://elliotgunn.github.io/work-with-me/) to share my knowledge. 
+I owe my career to many fortunate and generous encounters with peers and senior practitioners in data, and feel strongly about paying it forward. Also, I really enjoy public speaking. I've given talks to students and anyone transitioning into tech on how technical writing can make networking easier and more fun (e.g. Lambda School, Brave, PyData Impact Fellowship). I'm always [looking for opportunities](https://elliotgunn.github.io/work-with-me/) to share my knowledge. 
 
 ## Other things about me
 * Born and raised in Singapore, I currently live in a college town in Canada (Kingston, Ontario) with my fiancé and son
