@@ -38,6 +38,8 @@ I've created a [10-part Python guide](https://dagster.io/resources/python-guides
 * [Factory Patterns in Python](https://dagster.io/blog/python-factory-patterns) (#4 on Google search "factory pattern python")
 * [Write-Audit-Publish in data pipelines](https://dagster.io/blog/python-write-audit-publish) (#1 on Google search for "write audit publish python")
 
+I co-authored "[Standardize Pipelines with Domain-Specific Languages](https://dagster.io/blog/scale-and-standardize-data-pipelines-with-dsl)" with Tim Castillo. 
+
 ### Plotly
 * From Prototyping Jupyter to Deploying Data Apps with Dash AG Grid: [article](https://medium.com/plotly/from-prototyping-jupyter-to-deploying-data-apps-with-dash-ag-grid-f825789c3647) and [GitHub repository](https://github.com/plotly/dash-ag-grid-sample) featuring two Dash apps and a Jupyter Notebook
 
@@ -66,6 +68,9 @@ I've created a [10-part Python guide](https://dagster.io/resources/python-guides
 * [11 of the Best ChatGPT Data Analysis Prompts You Should Know](https://careerfoundry.com/en/blog/data-analytics/data-analysis-prompts/) (#3 on Google search for "ChatGPT Data Analysis Prompts")
 * [How To Become A Data Consultant: A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/data-consultant/) (#12 on Google search for "How To Become A Data Consultant")
 * [16 of the Best Python Machine Learning Libraries to Try](https://careerfoundry.com/en/blog/data-analytics/python-machine-learning-libraries/)
+* [What is an Analytics Engineer? A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/analytics-engineer/)
+* [12 Great Machine Learning Projects to Get You Started in AI](https://careerfoundry.com/en/blog/data-analytics/machine-learning-projects/)
+* [Becoming a Sustainability Analyst: How to Do it in 2024](https://careerfoundry.com/en/blog/data-analytics/sustainability-analyst/)
 
 ### Towards Data Science
 * [The All-time Best Guides to Data Science Writing](https://towardsdatascience.com/the-all-time-best-guides-to-data-science-writing-tues-b6fec391e9d9)

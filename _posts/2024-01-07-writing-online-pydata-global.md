@@ -1,14 +1,14 @@
 ---
-title: "How to write your way into a data job"
+title: "PyData Global: How to write your way into a data job"
 excerpt: "How to write a strong portfolio piece, and use it make your networking & interviewing more effective"
 last_modified_at: 2024-01-07T15:19:22-04:00
 toc: true
 layout: single
 author_profile: true
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pcYER-FMnPY?si=cWCamdYIWWVHu8Je" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![](../assets/images/write-your-way-talk.png)
-
+<br>
 Sometime back in January 2021 (two years ago!), I sat down and cranked out an article called "How to Write Your Way into a Data Job". Although I never hit publish, it turned into the basis of a talk that I've now given three times (BloomTech, Brave, and most recently PyData's Impact Scholarship Program). The latest iteration of the slides are above. 
 
 I've also since gone through some unexpected career shifts that I could not have foreseen when I first switched into data science back in 2019. I wrote this when I was an editor at Towards Data Science; reading hundreds of articles weekly from beginners and senior practitioners helps build an intuition for really great technical writing. Then I became a sales engineer at Plotly, took a break to fulfil a long-time dream to study economic history at the London School of Economics, and suppported my very costly 8 months in London by freelance technical writing. When I finished school, a series of fortunate networking encounters eventually led me to a full-time technical writing role at Datafold. 
@@ -16,6 +16,8 @@ I've also since gone through some unexpected career shifts that I could not have
 This is to say, it's very strange to look back at a two year old piece of writing and realize that I'm back where I started, except with hopefully more professional credibility to back up my opinions. 
 
 I reworked the structure when I was preparing for PyData--having my proposal accepted felt like it was time to take these ideas seriously. But most of the content did not need much updating because, as you'll see, the principles are pretty basic: work hard at making something good, share it online, and increase your surface area for opportunity. 
+
+![](../assets/images/write-your-way-talk.png)
 
 Anyway, it's a snowy day in Kingston, and I think it's high time I publish this. With that lengthy introduction, let's get into it!
 
