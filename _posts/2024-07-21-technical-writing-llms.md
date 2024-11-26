@@ -6,7 +6,7 @@ toc: true
 layout: single
 author_profile: true
 ---
-I have a guest post up over at one of my favourite data Substacks, Counting Data: ["Technical writing is too important to leave to language models"](https://www.counting-stuff.com/technical-writing-is-too-important-to-leave-to-language-models). I share about why there are no shortcuts to writing something worth reading. Great technical writing has three things:
+I have a guest post up over at one of my favourite data Substacks, Randy Au's Counting Data: ["Technical writing is too important to leave to language models"](https://www.counting-stuff.com/technical-writing-is-too-important-to-leave-to-language-models). I share about why there are no shortcuts to writing something worth reading. Great technical writing has three things:
 * Opinions, earned first-hand through direct practice
 * Tacit knowledge, codified
 * Context, on the broader problem being solved
