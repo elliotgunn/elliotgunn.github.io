@@ -1,5 +1,5 @@
 ---
-title: "Writing online is underrated"
+title: "Talk on why writing online is underrated"
 excerpt: "Come learn why and how to use writing in the tech job market"
 last_modified_at: 2023-10-18T15:19:22-04:00
 toc: true

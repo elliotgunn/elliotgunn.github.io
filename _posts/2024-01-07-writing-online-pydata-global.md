@@ -1,5 +1,5 @@
 ---
-title: "PyData Global: How to write your way into a data job"
+title: "PyData Global talk: How to write your way into a data job"
 excerpt: "How to write a strong portfolio piece, and use it make your networking & interviewing more effective"
 last_modified_at: 2024-01-07T15:19:22-04:00
 toc: true

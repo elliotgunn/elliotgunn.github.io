@@ -1,6 +1,6 @@
 ---
-title: "Guest post for Counting Data"
-excerpt: "It'll be a while before LLMs can replace the heart of great technical writing"
+title: "Guest post for Counting Data: Technical writing is too important to leave to language models"
+excerpt: "I make the case for why it'll be a while before LLMs can replace the heart of great technical writing"
 last_modified_at: 2024-07-21T15:19:22-04:00
 toc: true
 layout: single
