@@ -24,6 +24,13 @@ Here are samples of technical writing work I've done (for Medium links, right-cl
 ## Enterprise tooling ##
 Here are some examples of recent work I've done:
 
+### Datafold
+I created a [14,000-word branded microsite on data quality](https://www.datafold.com/data-quality-guide). It examines the nuances of data quality, blending practical advice with fresh perspectives on metrics, methodologies, and cultural approaches. We wanted it to be *the* go-to reference for anyone tackling the complexities of data quality in their organization.
+
+The microsite went live in May 2024 and now looks slightly different after Datafold's website migration later in the year. Here's how it looked when it launched:
+
+![data quality guide screenshot](../assets/images/data-quality-guide-screenshot.jpeg)
+
 ### Dagster
 I've created a [10-part Python guide](https://dagster.io/resources/python-guides) which was launched in October 2023 alongside Dagster's stakeholder education programs, including Dagster University. 
 
